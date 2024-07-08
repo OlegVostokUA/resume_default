@@ -1,0 +1,64 @@
+body {
+    font-family: Arial;
+}
+
+.gen {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+.sidebar {
+    background-color: #15184f;
+    color: #fad9a7;
+    padding: 5px;
+}
+
+.maincontent {
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.about-position {
+    margin: 0px;
+}
+
+.user-name {
+    margin: 3px;
+    font-family: Old English Text MT;
+}
+
+.date {
+    margin: 0px;
+}
+
+.user-linc {
+
+}
+
+.list {
+
+}
+
+.photo {
+    width: 250px;
+    margin: 5px;
+    border: 3px solid grey;
+    border-radius: 35px 5px;
+}
+
+.contacts {
+
+}
+
+.par-cont {
+
+}
+
+.cont-span {
+    font-size: 15px;
+}
+
+.link {
+    color: white;
+}
